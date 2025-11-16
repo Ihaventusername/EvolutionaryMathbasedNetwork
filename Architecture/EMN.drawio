@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.0.3">
   <diagram name="第 1 页" id="QaoyMPonYRcPaDMkN8we">
-    <mxGraphModel dx="978" dy="1717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="567" dy="1487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,8 +13,8 @@
         <mxCell id="Fzayy9TT9351icT2DH9j-8" value="&quot;Neuron Group&quot;" style="swimlane;whiteSpace=wrap;html=1;" parent="Fzayy9TT9351icT2DH9j-7" vertex="1">
           <mxGeometry y="30" width="380" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="qVQ8OvLEjqjOtg_Vgjik-3" value="&quot;Surface&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&quot;&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="Fzayy9TT9351icT2DH9j-8">
-          <mxGeometry x="40" y="37.5" width="60" height="135" as="geometry" />
+        <mxCell id="qVQ8OvLEjqjOtg_Vgjik-3" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;&quot;Forward&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 6px;&quot;&gt;Surface&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 6px;&quot;&gt;&quot;&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="Fzayy9TT9351icT2DH9j-8">
+          <mxGeometry x="40" y="37.5" width="70" height="135" as="geometry" />
         </mxCell>
         <mxCell id="qVQ8OvLEjqjOtg_Vgjik-19" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="qVQ8OvLEjqjOtg_Vgjik-3">
           <mxGeometry x="24" y="26.5" width="22" height="22" as="geometry" />
@@ -106,9 +106,9 @@
         <mxCell id="qVQ8OvLEjqjOtg_Vgjik-45" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;+ Middle&#39;s Neurons are not connect with each others. It will make a &quot;loop hell&quot;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Fzayy9TT9351icT2DH9j-8">
           <mxGeometry x="105" y="126" width="100" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="qVQ8OvLEjqjOtg_Vgjik-57" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Fzayy9TT9351icT2DH9j-8" source="qVQ8OvLEjqjOtg_Vgjik-24" target="qVQ8OvLEjqjOtg_Vgjik-40">
+        <mxCell id="qVQ8OvLEjqjOtg_Vgjik-57" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Fzayy9TT9351icT2DH9j-8" target="qVQ8OvLEjqjOtg_Vgjik-40">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="140" as="sourcePoint" />
+            <mxPoint x="110" y="109" as="sourcePoint" />
             <mxPoint x="260" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -145,7 +145,7 @@
         <mxCell id="qVQ8OvLEjqjOtg_Vgjik-38" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;*All datastreams are unsigned integer-32bit type&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
           <mxGeometry x="260" y="-10" width="100" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="qVQ8OvLEjqjOtg_Vgjik-67" value="&lt;div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;In the Surface Layer,&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;Neurons&#39; counts &lt;u&gt;as same as&lt;/u&gt; Required or Input&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+        <mxCell id="qVQ8OvLEjqjOtg_Vgjik-67" value="&lt;div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;In the Surface Layer,&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;Neurons&#39; counts the&lt;u&gt;&amp;nbsp;same as&lt;/u&gt; Required or Input&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
           <mxGeometry x="400" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qVQ8OvLEjqjOtg_Vgjik-70" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
