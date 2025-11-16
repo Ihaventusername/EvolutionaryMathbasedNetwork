@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.0.3">
   <diagram name="第 1 页" id="QaoyMPonYRcPaDMkN8we">
-    <mxGraphModel dx="1418" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="978" dy="1717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -103,8 +103,8 @@
         <mxCell id="qVQ8OvLEjqjOtg_Vgjik-40" value="A lot neurons" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="Fzayy9TT9351icT2DH9j-8">
           <mxGeometry x="130" y="76.5" width="50" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="qVQ8OvLEjqjOtg_Vgjik-45" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;+ They are not connect with each others&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Fzayy9TT9351icT2DH9j-8">
-          <mxGeometry x="105" y="126" width="100" height="34" as="geometry" />
+        <mxCell id="qVQ8OvLEjqjOtg_Vgjik-45" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;+ Middle&#39;s Neurons are not connect with each others. It will make a &quot;loop hell&quot;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Fzayy9TT9351icT2DH9j-8">
+          <mxGeometry x="105" y="126" width="100" height="54" as="geometry" />
         </mxCell>
         <mxCell id="qVQ8OvLEjqjOtg_Vgjik-57" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Fzayy9TT9351icT2DH9j-8" source="qVQ8OvLEjqjOtg_Vgjik-24" target="qVQ8OvLEjqjOtg_Vgjik-40">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
