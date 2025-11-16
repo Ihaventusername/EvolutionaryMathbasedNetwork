@@ -10,7 +10,7 @@
         <mxCell id="Fzayy9TT9351icT2DH9j-7" value="&quot;Cell&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&quot;&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="90" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="Fzayy9TT9351icT2DH9j-8" value="&quot;Neuron&quot;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="Fzayy9TT9351icT2DH9j-7">
+        <mxCell id="Fzayy9TT9351icT2DH9j-8" value="&quot;Neuron Group&quot;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="Fzayy9TT9351icT2DH9j-7">
           <mxGeometry x="10" y="30" width="180" height="100" as="geometry" />
         </mxCell>
       </root>
